@@ -1,0 +1,13 @@
+package com.ishwari.spring;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringOauthAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
